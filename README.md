@@ -1,0 +1,1 @@
+Reference: https://viblo.asia/p/mongodb-giam-99-luong-truy-van-den-database-nho-caching-distributed-locking-tren-redis-cung-thu-nhe-MkNLr2xbLgA
